@@ -1,6 +1,6 @@
----
-title: "Getting Started"
-linkTitle: "Getting Started"
+﻿---
+title: "Land Cover"
+linkTitle: "Land Cover"
 weight: 2
 description: >
   What does your user need to know to try your project?
