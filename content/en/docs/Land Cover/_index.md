@@ -3,7 +3,8 @@ title: "Land Cover"
 linkTitle: "Land Cover"
 weight: 2
 description: >
-  What does your user need to know to try your project?
+  Status and documentation of land cover GIS data as part of the Vermont Geographic Information System (VGIS).
+  Last Updated: 20191113
 ---
 
 {{% pageinfo %}}
