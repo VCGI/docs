@@ -53,8 +53,8 @@ anchor = "smart"
 
 [languages]
 [languages.en]
-title = "VT MAP Docs"
-description = "Standards, Policies, and Guidelines"
+title = "VGIS Status & Documentation"
+description = "Standards, Policies and Guidelines"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
