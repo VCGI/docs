@@ -1,7 +1,7 @@
 
 ---
-title: "Documentation"
-linkTitle: "Documentation"
+title: "VSDI Data Status"
+linkTitle: "VSDI Data Status"
 weight: 20
 menu:
   main:
